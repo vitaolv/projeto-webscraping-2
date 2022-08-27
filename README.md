@@ -4,7 +4,7 @@
 
 ## :memo: Descrição
 
-Com experiências aprendidas no [projeto anterior de Webcraping](https://github.com/vitaolv/Projeto_Webscraping), o principal objetivo do projeto é extrair a tabela de cotação do câmbio através desse [site](https://br.investing.com/currencies/exchange-rates-table) e mostrar a informação na janela Tkinter.
+Com experiências aprendidas no [projeto anterior de Webcraping](https://github.com/vitaolv/projeto-webscraping-1), o principal objetivo do projeto é extrair a tabela de cotação do câmbio através desse [site](https://br.investing.com/currencies/exchange-rates-table) e mostrar a informação na janela Tkinter.
 
 ## :arrow_down: Resultado
   :desktop_computer: → A saída do programa aparecerá uma janela com um botão "CLICK HERE TO UPDATE". 
